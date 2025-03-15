@@ -1,0 +1,1 @@
+[新しい OpenAI API の クイックスタート - Responses API ・ Agents SDK](https://note.com/npaka/n/nf6cc94556c67?sub_rt=share_pw)
