@@ -1,0 +1,2 @@
+# 機密情報を含む.envファイルを無視
+ReponsesAPI_test/.env
